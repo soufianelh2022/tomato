@@ -15,9 +15,9 @@
       "yandex_appopen":"demo-appopenad-yandex",
 
      
-      "PriorityBanner":"no",
-      "PriorityNative":"no",
-      "priorityInterstitial":"no"
+      "PriorityBanner":"huawei",
+      "PriorityNative":"huawei",
+      "priorityInterstitial":"huawei"
   
    }
 }
